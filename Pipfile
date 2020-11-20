@@ -15,7 +15,7 @@ psycopg2-binary = "*"
 gunicorn = "*"
 pandas = "*"
 numpy = "*"
-
+twitoff = "*"
 
 [requires]
 python_version = "3.8"
